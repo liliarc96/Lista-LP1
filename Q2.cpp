@@ -2,8 +2,7 @@
 using namespace std;
 
 int main(){
-    float largura, comprimento;
-    float area;
+    float largura, comprimento, area;
 
     cout<< "Digite a largura do lote em metros: \n";
     cin>> largura;
