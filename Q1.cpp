@@ -2,8 +2,7 @@
 using namespace std;
 
 int main(){
-    float nota1, nota2;
-    float media;
+    float nota1, nota2, media;
 
     cout<< "Digite a primeira nota: \n";
     cin>> nota1;
